@@ -1,4 +1,10 @@
-1. Buat file di pycharm 
+Nama  : Dedi Aldiansyah
+NIM   : 312210452
+Kelas : TI22B2
+Tugas : Praktikum3
+
+
+1. Buat file di pycharm
 
 kalian buka software pycharm lalu klik new, dan tampilannya akan seperti ini, pertama kalian ubah nama file dan penempatan filenya lalu klik create main.py, akan secara otomatis main.py terbuat, setelah itu klik create
 
