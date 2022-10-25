@@ -1,6 +1,9 @@
 Nama  : Dedi Aldiansyah
+
 NIM   : 312210452
+
 Kelas : TI22B2
+
 Tugas : Praktikum3
 
 
